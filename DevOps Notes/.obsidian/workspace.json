@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "b3a4f3ab0020eaf3",
+        "id": "ebc56503b6fa0e07",
         "type": "tabs",
         "children": [
           {
-            "id": "a7a7a8d65f425859",
+            "id": "004ed048b05b6f75",
             "type": "leaf",
             "state": {
               "type": "excalidraw",
@@ -76,8 +76,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200,
-    "collapsed": true
+    "width": 200
   },
   "right": {
     "id": "7e38e3c1a03d0e41",
@@ -179,8 +178,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200,
-    "collapsed": true
+    "width": 200
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -195,10 +193,10 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "a7a7a8d65f425859",
+  "active": "004ed048b05b6f75",
   "lastOpenFiles": [
-    "Excalidraw/AWS_Notes.excalidraw",
     "Excalidraw/AWS_Notes.md",
+    "Excalidraw/AWS_Notes.excalidraw",
     "Excalidraw/Drawing 2026-04-07 15.06.58.excalidraw.md",
     "Excalidraw/Drawing 2026-03-28 18.32.25.excalidraw.md",
     "Pasted Image 20260316152938_377.jpg",
